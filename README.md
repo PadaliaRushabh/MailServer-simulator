@@ -18,13 +18,3 @@ TO compile the file.
     d) the program will started in the esclipse IDE console.    
  
 
-For API reference Open index.html
-
-2) Using jar file
-
-  a) extract Mail.jar to a specfic location
-  b) from the terminal navigate to the location where Mail.jar is stored
-  c) use below command in terminal
-   
-  
-    java -jar JCUS-A2-CP2016-2012SP53.jar
