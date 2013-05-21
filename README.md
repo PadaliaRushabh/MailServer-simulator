@@ -1,7 +1,9 @@
-Project Name: Mail Server Simulator
+Project Name: Mail Server Simulaton
+
 Author: RUSHABH RAJESH KUMAR PADALIA
-JCU ID: 12766953
+
 OPERATING SYSTEM USED: UBUNTU 12.10 32 bit
+
 IDE USED : ECLIPSE Version: 4.2.1
 
 
